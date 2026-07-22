@@ -1,4 +1,5 @@
-<img width="900" height="552" alt="GitHub Image" src="https://github.com/user-attachments/assets/5c0b4089-ecb3-40d1-8124-01cc74b741c9" />
+<img width="600" height="368" alt="GitHub Image" src="https://github.com/user-attachments/assets/2d863cd1-53a4-4c5b-a3eb-f3a0fae8ccb8" />
+
 
 
 ## Welcome!
@@ -14,10 +15,10 @@ Or you can directly jump to a project of interest:
 - Project 3
 
 ## 🛠️ Tools
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+- Language: Python, R
+- Database: MySQL
+- Visualization: Tableau, PowerBI, Looker Studio
 
 ## 👋🏻 Connect with Me
-LinkedIn: https://www.linkedin.com/in/jonathan-jackson-037a5b32/ 
+[LinkedIn](https://www.linkedin.com/in/jonathan-jackson-037a5b32/)
 
