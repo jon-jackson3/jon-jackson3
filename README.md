@@ -1,16 +1,20 @@
-## Hi there 👋
+## Welcome!
 
-<!--
-**jon-jackson3/jon-jackson3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my analytics project repository showcasing my expertise in dashboard design, data analysis, and storytelling with data.
 
-Here are some ideas to get you started:
+## 📚 Projects
+An overview of all projects my repository can be found here: LINK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Or you can directly jump to a project of interest:
+- Project 1
+- Project 2
+- Project 3
+
+## 🛠️ Tools
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, Looker Studio
+
+## 👋🏻 Connect with Me
+LinkedIn: https://www.linkedin.com/in/jonathan-jackson-037a5b32/ 
+
