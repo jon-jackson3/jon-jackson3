@@ -12,7 +12,7 @@ The tables below provide an overview of the projects in this repository. Interes
 | [Fantasy Football Scouting Report](https://github.com/jon-jackson3/Fantasy-Football-Scouting-Report/tree/main) | Designed dashboard for fantasy football league to track ownership draft trends in positional spending, favorite NFL teams, and overall draft strategy. | Tableau |
 | [Great Bicycle Boom of 2020](https://github.com/jon-jackson3/Great-Bicycle-Boom-2020/tree/main)       | Redesigned dashboard for Rails-to-Trails Conservacy to demonstrate the amount of bicycle traffic on trails in 2020 (COVID lockdowns) vs. 2019.         | Tableau |
 
-### Programming
+### Programming (*forthcoming*)
 | Project                          | Description                                                                 | Tools   |
 | :-------------------------------- | :-------------------------------------------------------- | :-------: |
 | Predicting MLB Winning Percentage | Analyzed baseball's Pythagorean Theorem to predict the percentage of games won by each MLB team | R |
