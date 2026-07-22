@@ -1,3 +1,5 @@
+<img width="600" height="368" alt="GitHub Image" src="https://github.com/user-attachments/assets/4527a35b-5930-413b-9b9b-5668561f2ff0" />
+
 ## Welcome!
 
 This is my analytics project repository showcasing my expertise in dashboard design, data analysis, and storytelling with data.
