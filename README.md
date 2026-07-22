@@ -21,7 +21,7 @@ The tables below provide an overview of the projects in this repository. Interes
 ### Consulting
 | Project                          | Description                                                                 | Tools   |
 | :-------------------------------- | :-------------------------------------------------------- | :-------: |
-| Sub-Category Reduction at Superstore | Analyzed historical global sales data, identified underperforming sub-categories on key metrics, and provided data-driven recommendations to management | Excel, Tableau |
+| [Sub-Category Reduction at Superstore](https://github.com/jon-jackson3/SubCategory-Reduction-Superstore/tree/main) | Analyzed historical global sales data, identified underperforming sub-categories on key metrics, and provided data-driven recommendations to management | Excel, Tableau |
 
 
 ## 🛠️ Tools
