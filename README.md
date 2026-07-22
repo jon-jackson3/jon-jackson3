@@ -9,7 +9,7 @@ The tables below provide an overview of the projects in this repository. Interes
 ### Data Visualization
 | Project                          | Description                                                                 | Tools   |
 | :-------------------------------- | :-------------------------------------------------------- | :-------: |
-| Fantasy Football Scouting Report | Designed dashboard for fantasy football league to track ownership draft trends in positional spending, favorite NFL teams, and overall draft strategy. | Tableau |
+| [Fantasy Football Scouting Report](https://github.com/jon-jackson3/Fantasy-Football-Scouting-Report/tree/main) | Designed dashboard for fantasy football league to track ownership draft trends in positional spending, favorite NFL teams, and overall draft strategy. | Tableau |
 | Great Bicycle Boom of 2020       | Redesigned dashboard for Rails-to-Trails Conservacy to demonstrate the amount of bicycle traffic on trails in 2020 (COVID lockdowns) vs. 2019.         | Tableau |
 
 ### Programming
